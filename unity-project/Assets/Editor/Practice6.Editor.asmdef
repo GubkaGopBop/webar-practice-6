@@ -1,0 +1,1 @@
+{"name":"Practice6.Editor","references":["Practice6","WebXR","Unity.XR.Management","Unity.XR.Management.Editor","UnityEngine.SpatialTracking"],"includePlatforms":["Editor"],"autoReferenced":true}

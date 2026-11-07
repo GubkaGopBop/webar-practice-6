@@ -1,0 +1,12 @@
+**/Library/
+**/Temp/
+**/Logs/
+**/obj/
+**/UserSettings/
+**/node_modules/
+**/.vs/
+*.log
+*.csproj
+*.sln
+.DS_Store
+.certs/
